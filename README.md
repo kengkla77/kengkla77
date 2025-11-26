@@ -64,14 +64,14 @@ Aspiring Software Developer dedicated to building robust and efficient applicati
 
 ---
 
-
-
 <div align="center">
   <h3>🤝 Connect with me</h3>
-  <a href="https://facebook.com/YOUR_FB_ID">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+
+  <a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://instagram.com/YOUR_IG_ID">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="mailto:kengkla48@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  </div>
+</div>
