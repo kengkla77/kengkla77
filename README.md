@@ -1,28 +1,28 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <h1>Hi there, I'm kengkla! 👨‍💻</h1>
+  <h1>Hi there, I'm kengkla! </h1>
   <p><strong>Developer | Learner | Technology Lover</strong></p>
 </div>
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 Aspiring Software Developer dedicated to building robust and efficient applications. I have a deep interest in software engineering principles and modern development practices. I am looking for an internship where I can apply my technical skills to deliver high-quality software solutions.
-- 🌱 I’m currently learning: **Python Framwork & OpenCV**
-- 💬 Ask me about: **Web Development and Database Basics**
-- 📫 How to reach me: **kengkla48@gmail.com**
-- 🌐 Portfolio: [Personal Website](https://kengkla77.github.io/portfolio/)
+-  I’m currently learning: **Python Framwork & OpenCV**
+-  Ask me about: **Web Development and Database Basics**
+-  How to reach me: **kengkla48@gmail.com**
+-  Portfolio: [Personal Website](https://kengkla77.github.io/portfolio/)
   
 ---
 
-### ⚡ What I Do
-- 🐍 **Backend Development:** Building robust web applications with **Python (Django)**.
-- 🗄️ **Database Management:** Designing models and managing data using **MySQL** within Django projects.
-- 💻 **Full-Stack Integration:** Connecting Django backends with HTML/CSS/JavaScript frontends.
+###  What I Do
+- **Backend Development:** Building robust web applications with **Python (Django)**.
+- **Database Management:** Designing models and managing data using **MySQL** within Django projects.
+- **Full-Stack Integration:** Connecting Django backends with HTML/CSS/JavaScript frontends.
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 **Programming Languages**
 <br>
