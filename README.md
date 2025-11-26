@@ -8,13 +8,16 @@
 
 ### 🙋‍♂️ About Me
 Aspiring Software Developer dedicated to building robust and efficient applications. I have a deep interest in software engineering principles and modern development practices. I am looking for an internship where I can apply my technical skills to deliver high-quality software solutions.
-- 🔭 I’m currently working on: **[Project Name or Topic]**
-- 🌱 I’m currently learning: **[Language or Tool]**
-- 👯 I’m looking to collaborate on: **[Open Source projects / Ideas]**
-- 💬 Ask me about: **[Your areas of expertise]**
-- 📫 How to reach me: **[Your Email]**
-
+- 🌱 I’m currently learning: **Python Framwork & OpenCV**
+- 💬 Ask me about: **Web Development and Database Basics**
+- 📫 How to reach me: **kengkla48@gmail.com**
+  
 ---
+
+### ⚡ What I Do
+- 🐍 **Backend Development:** Building robust web applications with **Python (Django)**.
+- 🗄️ **Database Management:** Designing models and managing data using **MySQL** within Django projects.
+- 💻 **Full-Stack Integration:** Connecting Django backends with HTML/CSS/JavaScript frontends.
 
 ### ⏳ My Journey
 | Year | Event |
