@@ -62,6 +62,8 @@ Aspiring Software Developer dedicated to building robust and efficient applicati
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
+---
+
 ### 📊 GitHub Stats (Backup)
 
 <div align="center">
@@ -70,6 +72,8 @@ Aspiring Software Developer dedicated to building robust and efficient applicati
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kengkla77&theme=solarized_dark" alt="repos per language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kengkla77&theme=solarized_dark" alt="most commit language" />
 </div>
+
+---
 
 <div align="center">
   <h3>🤝 Connect with me</h3>
