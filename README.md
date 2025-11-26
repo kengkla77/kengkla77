@@ -62,18 +62,13 @@ Aspiring Software Developer dedicated to building robust and efficient applicati
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Backup)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kengkla77&layout=compact&theme=radical&hide_border=true&langs_count=6" height="165" alt="languages graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=kengkla77&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="stats graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kengkla77&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kengkla77&theme=solarized_dark" alt="profile details" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kengkla77&theme=solarized_dark" alt="repos per language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kengkla77&theme=solarized_dark" alt="most commit language" />
 </div>
 
 <div align="center">
