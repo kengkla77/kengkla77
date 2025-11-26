@@ -67,7 +67,7 @@ Aspiring Software Developer dedicated to building robust and efficient applicati
 <div align="center">
   <h3>🤝 Connect with me</h3>
 
-  <a href="(https://kengkla77.github.io/portfolio/)" target="_blank">
+  <a href="https://kengkla77.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 
