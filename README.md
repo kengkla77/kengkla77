@@ -64,16 +64,7 @@ Aspiring Software Developer dedicated to building robust and efficient applicati
 
 ---
 
-### 📊 GitHub Stats (Backup)
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kengkla77&theme=solarized_dark" alt="profile details" />
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kengkla77&theme=solarized_dark" alt="repos per language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kengkla77&theme=solarized_dark" alt="most commit language" />
-</div>
-
----
 
 <div align="center">
   <h3>🤝 Connect with me</h3>
