@@ -33,6 +33,7 @@ Aspiring Software Developer dedicated to building robust and efficient applicati
 **Frameworks & Libraries**
 <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+
 **Databases**
 <br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
